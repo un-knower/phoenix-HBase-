@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="phoenix-4.5.2-HBase-1.1-client-minimal">
+    <CLASSES>
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-client-minimal.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-client-without-hbase.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-client.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-server-without-antlr.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-server.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-thin-client.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-core-4.5.2-HBase-1.1-tests.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-core-4.5.2-HBase-1.1.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-flume-4.5.2-HBase-1.1-tests.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-flume-4.5.2-HBase-1.1.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-pherf-4.5.2-HBase-1.1-minimal.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-pherf-4.5.2-HBase-1.1-tests.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-pherf-4.5.2-HBase-1.1.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-pig-4.5.2-HBase-1.1-tests.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-pig-4.5.2-HBase-1.1.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-server-4.5.2-HBase-1.1-runnable.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-server-4.5.2-HBase-1.1-tests.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-server-4.5.2-HBase-1.1.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-server-client-4.5.2-HBase-1.1.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-spark-4.5.2-HBase-1.1-tests.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-spark-4.5.2-HBase-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-client.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-core-4.5.2-HBase-1.1-sources.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-flume-4.5.2-HBase-1.1-sources.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-pherf-4.5.2-HBase-1.1-sources.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-pig-4.5.2-HBase-1.1-sources.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-server-4.5.2-HBase-1.1-runnable.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-server-4.5.2-HBase-1.1-sources.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/phoenix-server-client-4.5.2-HBase-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

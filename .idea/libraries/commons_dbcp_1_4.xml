@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-dbcp-1.4">
+    <CLASSES>
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/commons-dbcp-1.4.jar!/" />
+      <root url="jar://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/phoenix-4.5.2-HBase-1.1-bin/phoenix-4.5.2-HBase-1.1-bin/commons-pool-1.6.jar!/" />
+      <root url="file://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/hbase-1.1.3-bin/hbase-1.1.3/docs/apidocs" />
+      <root url="file://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228/hbase-1.1.3-bin/hbase-1.1.3/docs/devapidocs" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://G:/资料/尚学堂大数据周末班原版（传智大数据第三期）/2016-02-28-hbase/0228/0228" recursive="false" />
+  </library>
+</component>
